@@ -18,8 +18,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Bem vindos a versão arquivada do Como Faz! Aqui estão arquivados todos os artigos publicados de 2008 a 2012.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: florfaz
+facebook_username: comofaz
 
 # Build settings
 markdown: kramdown
